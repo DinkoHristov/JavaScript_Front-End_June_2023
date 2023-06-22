@@ -4,3 +4,5 @@ This is a repository with solutions of problems in my SoftUni Course: JavaScript
 02.JS Syntax Fundametals - Exercises
 03.JS Syntax Fundamentals - More Exercises
 04.Functions and Statements - Lab
+05.Functions and Statements - Exercises
+06.Functions and Statements - More Exercises
