@@ -6,3 +6,5 @@ This is a repository with solutions of problems in my SoftUni Course: JavaScript
 04.Functions and Statements - Lab
 05.Functions and Statements - Exercises
 06.Functions and Statements - More Exercises
+07.Objects and Classes - Lab
+08.Objects and Classes - Exercises
