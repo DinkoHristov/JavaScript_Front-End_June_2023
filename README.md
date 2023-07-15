@@ -8,3 +8,4 @@ This is a repository with solutions of problems in my SoftUni Course: JavaScript
 06.Functions and Statements - More Exercises
 07.Objects and Classes - Lab
 08.Objects and Classes - Exercises
+09.Objects and Classes - More Exercises
