@@ -9,3 +9,8 @@ This is a repository with solutions of problems in my SoftUni Course: JavaScript
 07.Objects and Classes - Lab
 08.Objects and Classes - Exercises
 09.Objects and Classes - More Exercises
+10.DOM and Events - Lab
+11.DOM and Events - Exercises
+12.DOM and Events - More Exercises
+13.HTTP and REST - Exercises
+14.JS Front-End Regular Exam - 5 August 2023
